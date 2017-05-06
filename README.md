@@ -1,0 +1,2 @@
+# miniGameServer
+this is a game server propgram
