@@ -1,2 +1,2 @@
 # miniGameServer
-this is a game server propgram
+this is a game server program
